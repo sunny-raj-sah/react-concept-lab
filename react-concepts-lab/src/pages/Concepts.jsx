@@ -58,7 +58,7 @@ function Concepts() {
       <h1>React Concepts Lab</h1>
 
       <p className="subtitle">
-        React revision from basic to advanced
+        React revision  
       </p>
 
       <div className="concept-grid">
