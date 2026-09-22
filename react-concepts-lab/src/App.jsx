@@ -10,7 +10,7 @@ import TaskList from "./components/TaskList";
 import EventPractice from "./components/EventPractice";
 import LoginForm from "./components/LoginForm";
 import UseEffectLab from "./components/UseEffectLab";
-
+import ConditionalRendering from "./pages/ConditionalRendering";
 
 import "./App.css";
 
@@ -54,6 +54,11 @@ function App() {
       <Route
   path="/use-effect"
   element={<UseEffectLab />}
+/>
+
+<Route
+  path="/conditional-rendering"
+  element={<ConditionalRendering />}
 />
     </Routes>
   );
