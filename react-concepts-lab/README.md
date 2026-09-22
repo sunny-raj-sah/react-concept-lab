@@ -1,4 +1,4 @@
- # React Concepts Lab
+# React Concepts Lab
 
 An interactive React.js learning and interview-preparation laboratory built with React and Vite.
 
